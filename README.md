@@ -7,7 +7,7 @@ This is basically a Codeigniter Implementation of the Twitter Auth library.
 
 Getting Started
 ===============
-1. Create your basic CodeIgniter Application (Make sure the basic app runs - this wil help in conducting tests).
+1. Create your basic CodeIgniter Application (Make sure the basic app runs - this will help in conducting tests).
 2. Copy and paste the js, css, images into your (in your CodeIgniter app) assets directory (we named ours "www" because we were bored).
 3. Go into "Applications" directory and copy the files from "Controllers", "Libraries", and "Views" into your CodeIgniter application.
 
